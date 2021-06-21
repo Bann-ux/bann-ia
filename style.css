@@ -8,4 +8,14 @@ h1{
     color: red; 
     font-weight: bolder;
     text-decoration: underline;
+    position:relative;
+    left: 100px;
+}
+
+.adress, .name{
+    text-decoration: underline;
+    font-style: oblique;
+    font-weight: bolder;
+    position:relative; 
+    left: 100px;
 }
